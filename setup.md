@@ -1,0 +1,3 @@
+source .setup
+
+(ginmode)
